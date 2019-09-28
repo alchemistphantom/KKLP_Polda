@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Duknis Polda Sulsel</string>
+    <string name="title_activity_menu_user_">menu_user_Activity</string>
+    <string name="title_activity_menu_teknisi_">menu_teknisi_Activity</string>
+</resources>

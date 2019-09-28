@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "402752799952",
+    "firebase_url": "https://duknispoldasulsel-2c468.firebaseio.com",
+    "project_id": "duknispoldasulsel-2c468",
+    "storage_bucket": "duknispoldasulsel-2c468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402752799952:android:9577c608e64d89c3578ad5",
+        "android_client_info": {
+          "package_name": "com.example.duknispoldasulsel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402752799952-sgv53u3ddvs34ukhsh3i9edrp9cmmt5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.duknispoldasulsel",
+            "certificate_hash": "8744699c9b789f0c43b14b587b00617d6b4b3d52"
+          }
+        },
+        {
+          "client_id": "402752799952-3pj2bgsheggqm67ajcm31j2ei7v5fi7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdPC1JnMRLT0k0Nc7DPuDi_JydVe2e9s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402752799952-3pj2bgsheggqm67ajcm31j2ei7v5fi7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
